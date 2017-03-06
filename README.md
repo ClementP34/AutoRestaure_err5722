@@ -1,3 +1,5 @@
+Attention, ce script n'a pas encore été testé.
+
 # AutoRestaure_err5722
 Script Powershell pour l'erreur Netlogon numero 5722
 
@@ -10,5 +12,3 @@ Il faut aller dans l'Observateur d'événement (eventvwr.msc)
 Trouver l'erreur Source "NETLOGON" Evenement "5722"
 Clic Droit sur l'erreur puis choisir "Joindre une tâche à cet événement"
 Choisir de lancer ce script (AutoRestaure_err5722.ps1)
-
-Attention, ce script n'a pas encore été testé.
