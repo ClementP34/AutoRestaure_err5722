@@ -1,4 +1,4 @@
-Attention, ce script n'a pas encore été testé.
+Attention, ce script n'a pas encore été testé. J'ai un bug pour l'execution à distance.
 
 # AutoRestaure_err5722
 Script Powershell pour l'erreur Netlogon numero 5722
